@@ -10,14 +10,14 @@
 
 <!-- CONTRIBUTING -->
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
-Desenvolvido em React Native;
-Módulo react-navigation para realizar a navegação entre as telas;
-Módulo react-native-qrcode-svg, componente para apresentar o QRCode;
-Módulo react-native-vector-icons, pacote de icons para aplicação;
-Módulo react-native-iphone-x-helper, biblioteca para ajudar no design para aplicações em iPhone X, XS, XS Max & XR;
-Como instalar
+1. Desenvolvido em React Native;
+2. Módulo react-navigation para realizar a navegação entre as telas;
+3. Módulo react-native-qrcode-svg, componente para apresentar o QRCode;
+4. Módulo react-native-vector-icons, pacote de icons para aplicação;
+5. Módulo react-native-iphone-x-helper, biblioteca para ajudar no design para aplicações em iPhone X, XS, XS Max & XR;
+6. Como instalar
 
 Pré-requisitos -> Ter o NodeJS instalado, um gerenciar de pacotes NPM ou YARN e o React Native CLI configurado;
 Clone o repositório; git clone https://github.com/FelipeAngelini/clone-nubank.git
